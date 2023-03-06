@@ -9,8 +9,8 @@ vamos alterar varias linha para ver o comportamento.
 Estamos indo bem.
 
 
-##Alterando README.md
+# Alterando README.md
 
-###Utilizando Markdown
+## Utilizando Markdown
 
 adicionando vários comentários.
