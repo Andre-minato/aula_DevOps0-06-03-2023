@@ -7,3 +7,10 @@ vamos alterar varias linha para ver o comportamento.
 
 
 Estamos indo bem.
+
+
+##Alterando README.md
+
+###Utilizando Markdown
+
+adicionando vários comentários.
