@@ -14,3 +14,5 @@ Estamos indo bem.
 ## Utilizando Markdown
 
 adicionando vários comentários.
+
+atualizando git local.
